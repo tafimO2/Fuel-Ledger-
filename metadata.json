@@ -1,0 +1,6 @@
+{
+  "name": "Fuel Ledger BD",
+  "description": "Fuel station credit sales, customer dues, and payment ledger management app for Bangladesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
